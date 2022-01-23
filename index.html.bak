@@ -12,10 +12,10 @@
 
    <body>
    <p>Comandos de <b>GIT</b> más comunes: </p>
-   <h2>Para subir modificaiones del repositorio local a github, primero hago:
-A.-  git add .
-B.- git commit -m "modificando"
-C.- git push --set-upstream comandos master.</h2>
+   <h2>Para subir modificaiones del repositorio local a github, primero hago:<br>
+A.-  git add .<br>
+B.- git commit -m "modificando"<br>
+C.- git push --set-upstream comandos master.</h2><br>
    <li>
 	<ul><strong>pwd:</strong>" /c/Users/Laptop Win7/desktop/proyecto"
  Muestra la carpeta donde estamos ubicados </ul>
